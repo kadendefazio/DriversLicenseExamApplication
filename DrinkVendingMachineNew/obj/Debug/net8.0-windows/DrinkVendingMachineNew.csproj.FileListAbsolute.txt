@@ -1,0 +1,17 @@
+C:\Users\kaden\source\repos\DrinkVendingMachineNew\DrinkVendingMachineNew\bin\Debug\net8.0-windows\DrinkVendingMachineNew.exe
+C:\Users\kaden\source\repos\DrinkVendingMachineNew\DrinkVendingMachineNew\bin\Debug\net8.0-windows\DrinkVendingMachineNew.deps.json
+C:\Users\kaden\source\repos\DrinkVendingMachineNew\DrinkVendingMachineNew\bin\Debug\net8.0-windows\DrinkVendingMachineNew.runtimeconfig.json
+C:\Users\kaden\source\repos\DrinkVendingMachineNew\DrinkVendingMachineNew\bin\Debug\net8.0-windows\DrinkVendingMachineNew.dll
+C:\Users\kaden\source\repos\DrinkVendingMachineNew\DrinkVendingMachineNew\bin\Debug\net8.0-windows\DrinkVendingMachineNew.pdb
+C:\Users\kaden\source\repos\DrinkVendingMachineNew\DrinkVendingMachineNew\obj\Debug\net8.0-windows\DrinkVendingMachineNew.Form1.resources
+C:\Users\kaden\source\repos\DrinkVendingMachineNew\DrinkVendingMachineNew\obj\Debug\net8.0-windows\DrinkVendingMachineNew.Properties.Resources.resources
+C:\Users\kaden\source\repos\DrinkVendingMachineNew\DrinkVendingMachineNew\obj\Debug\net8.0-windows\DrinkVendingMachineNew.csproj.GenerateResource.cache
+C:\Users\kaden\source\repos\DrinkVendingMachineNew\DrinkVendingMachineNew\obj\Debug\net8.0-windows\DrinkVendingMachineNew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaden\source\repos\DrinkVendingMachineNew\DrinkVendingMachineNew\obj\Debug\net8.0-windows\DrinkVendingMachineNew.AssemblyInfoInputs.cache
+C:\Users\kaden\source\repos\DrinkVendingMachineNew\DrinkVendingMachineNew\obj\Debug\net8.0-windows\DrinkVendingMachineNew.AssemblyInfo.cs
+C:\Users\kaden\source\repos\DrinkVendingMachineNew\DrinkVendingMachineNew\obj\Debug\net8.0-windows\DrinkVendingMachineNew.csproj.CoreCompileInputs.cache
+C:\Users\kaden\source\repos\DrinkVendingMachineNew\DrinkVendingMachineNew\obj\Debug\net8.0-windows\DrinkVendingMachineNew.dll
+C:\Users\kaden\source\repos\DrinkVendingMachineNew\DrinkVendingMachineNew\obj\Debug\net8.0-windows\refint\DrinkVendingMachineNew.dll
+C:\Users\kaden\source\repos\DrinkVendingMachineNew\DrinkVendingMachineNew\obj\Debug\net8.0-windows\DrinkVendingMachineNew.pdb
+C:\Users\kaden\source\repos\DrinkVendingMachineNew\DrinkVendingMachineNew\obj\Debug\net8.0-windows\DrinkVendingMachineNew.genruntimeconfig.cache
+C:\Users\kaden\source\repos\DrinkVendingMachineNew\DrinkVendingMachineNew\obj\Debug\net8.0-windows\ref\DrinkVendingMachineNew.dll
